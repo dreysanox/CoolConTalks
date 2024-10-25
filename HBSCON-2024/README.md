@@ -4,7 +4,14 @@ Here’s a **README.md** for the **HBSCON** conference, dedicated to cybersecuri
 
 # HBSCON Conference Notes
 
-Welcome to the **HBSCON Conference Notes** repository! Here, you’ll find notes and summaries from HBSCON, a prominent event in the cybersecurity and hacking community. This repository is designed for those who wish to delve deeper into the conference's highlights, sessions, and workshops—whether they attended or not.
+Welcome to the HBSCON notes repository! Below is an index of all available notes.
+
+## 📑 Notes Index
+
+- [**Talk Title 1** - Speaker(s) Name(s)](./HBSCON/Talk_Title_1.md)
+- [**Talk Title 2** - Speaker(s) Name(s)](./HBSCON/Talk_Title_2.md)
+- [**Talk Title 3** - Speaker(s) Name(s)](./HBSCON/Talk_Title_3.md)
+- [**Talk Title 4** - Speaker(s) Name(s)](./HBSCON/Talk_Title_4.md)
 
 ## 🎯 What is HBSCON?
 
