@@ -26,7 +26,6 @@ We welcome contributions from other cybersecurity enthusiasts! To ensure consist
 1. **Fork this repository** and create a new branch for your notes.
 2. **Add your notes** following the template in the correct conference folder.
 3. **Submit a Pull Request (PR)** explaining the talk and conference, and include your notes.
-4. **Collaborate** with reviewers and other contributors to ensure clarity and accuracy.
 
 
 ## 📝 Note Format
