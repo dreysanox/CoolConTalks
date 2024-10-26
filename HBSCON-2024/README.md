@@ -1,4 +1,3 @@
-Here’s a **README.md** for the **HBSCON** conference, dedicated to cybersecurity and hacking, with a special focus on Kevin Mitnick. 
 
 ---
 
