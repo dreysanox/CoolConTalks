@@ -3,7 +3,7 @@
 
 # HBSCON Conference Notes
 
-Welcome to the HBSCON notes repository! Below is an index of all available notes.
+Welcome to the CCT HBSCON-2024 notes repository! Below is an index of all available notes.
 
 ## 📑 Notes Index
 
