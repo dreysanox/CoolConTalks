@@ -3,21 +3,25 @@
 
 # CoolConTalks
 
-Welcome to **CoolConTalks**! This repository is a community-driven collection of notes and summaries in "blog post format" from some of the most insightful cybersecurity conference talks. Whether you missed a talk or just want a quick summary, this is your place to stay informed!
+Welcome to **CoolConTalks**! This repository is a community-driven collection of notes in "blog post format" from topics of some of the most insightful cybersecurity conference talks. Whether you missed a talk or are just interested in the topic, this is your place!
 
 ## 📚 Repository Structure
 
-Each folder in this repository is named after a specific conference. Inside each conference folder, you’ll find individual notes about each talk, formatted as follows:
+Each folder in this repository is named after a specific conference. Inside each conference folder, you’ll find individual notes about each topic, formatted as follows:
 
-- **Talk Name**: The title of the talk.
-- **Speakers**: The names of the people who gave the talk.
+- **Topic**: The topic of the talk.
 - **Summary**: A brief overview of the talk’s key points.
 - **Detailed Notes**: In-depth notes covering the talk’s main ideas, techniques, and any interesting insights.
 - **Video Link**: A link to the video of the talk, if available.
-- **Speaker Contact**: Contact information for the speaker(s), if provided by them, so you can contact them with doubts about the post.
+- **Talk Name and other resources**: The sources we based the notes on.
 
 Each note is a single markdown file (`.md`), organized by the conference in which the talk was given.
 
+
+## 📑 Cons Index
+
+- [**HBSCON-2024** - La Nave, Madrid](./HBSCON/README.md)
+  
 
 ## 🚀 How to Contribute
 
@@ -33,23 +37,18 @@ We welcome contributions from other cybersecurity enthusiasts! To ensure consist
 Each post should follow this format:
 
 ```markdown
-# Talk Title
+# Note Title / topic
 
-- **Speakers**: Speaker Name(s)
-- **Conference**: Conference Name
-- **Date**: Date of the Talk
-- **Summary**: A brief summary of the talk’s main points.
-- **Detailed Notes**:
+- **Topic**: The topic of the talk.
+- **Summary**: A brief overview of the talk’s key points.
+- **"Blog Post"**:
   - Key insights
   - Main techniques
   - Relevant tools or methodologies discussed
-- **Video Link**: [Link to Video (if available)](https://example.com)
-- **Speaker Contact**: [Contact information, if available]
+- **Bibliography**:
+  - **Talk Name and other resources**: The sources we based the notes on.
+  - **Video Link**: [Link to the talk video (if available)](https://example.com)
 ```
-
-## ✨ Code of Conduct
-
-We expect all contributors to uphold respectful, collaborative, and ethical behavior. Remember, the purpose of CoolConTalks is to foster a positive learning environment for cybersecurity enthusiasts everywhere.
 
 ## 📬 Contact
 
