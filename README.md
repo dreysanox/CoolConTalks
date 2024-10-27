@@ -20,7 +20,7 @@ Each note is a single markdown file (`.md`), organized by the conference in whic
 
 ## 📑 Cons Index
 
-- [**HBSCON-2024** - La Nave, Madrid](./HBSCON/README.md)
+- [**HBSCON-2024** - La Nave, Madrid](./HBSCON)
   
 
 ## 🚀 How to Contribute
